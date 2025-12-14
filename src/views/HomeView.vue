@@ -42,7 +42,7 @@
         <div class="hero__right">
           <!-- <div class="hero__shape"></div>
           <div class="hero__photo"></div> -->
-          <img src="\src\assets\chistota.jpg" alt="Чистота">
+          <img src="/src/assets/chistota.jpg" alt="Чистота" loading="lazy" />
         </div>
       </div>
     </section>
