@@ -18,7 +18,7 @@ const routes = [
 { path: '/register', name: 'register', component: RegisterView },
 { path: '/login', name: 'login', component: LoginView },
 { path: '/employees', name: 'employees', component: EmployeesView },
-{ path: '/employees/:id ', name: 'employee-detail', component: EmployeeDetailView },
+{ path: '/employees/:id', name: 'employee-detail', component: EmployeeDetailView },
 { path: '/privacy-policy', name: 'privacy-policy', component: PrivacyPolicyView },
 { path: '/faq', name: 'faq', component: FaqView }
 ]
